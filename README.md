@@ -1,7 +1,12 @@
 # Exercise04a-StateMachines
 
+# Project Name
+
+2D platformer 03.03.2025
+
 ## Implementation
-Which features you included.
+
+Idle, Walking, and Jumping animations
 
 ## References
 
@@ -12,4 +17,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Josephine Dugger
